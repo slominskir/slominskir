@@ -1,7 +1,7 @@
 👋 Hi, I’m @slominskir
 
 - [My Repo List](https://gist.github.com/slominskir/dcd7c2446665bf86154b51d2cb4a14de)
-- [Fall 2026 SAM Tasks](https://github.com/orgs/JeffersonLab/projects/69)
+- [Fall 2026 SAM Tasks](https://github.com/orgs/JeffersonLab/projects/69/views/1?filterQuery=assignee%3Aslominskir)
 
 Closed Tasks
 - [Spring 2026 Run Tasks](https://github.com/orgs/JeffersonLab/projects/67)
